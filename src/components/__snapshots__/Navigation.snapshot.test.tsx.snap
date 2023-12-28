@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation renders correctly 1`] = `
+[
+  <header
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed mui-fixed css-pzzqw0-MuiPaper-root-MuiAppBar-root"
+    style={
+      {
+        "background": "white",
+      }
+    }
+  >
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthXl css-19r6kue-MuiContainer-root"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-regular css-r6ewbb-MuiToolbar-root"
+      >
+        <div
+          className="MuiBox-root css-1vsrqil"
+        >
+          <div
+            className="MuiBox-root css-76hfd0"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+              data-testid="PaymentsIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 14V6c0-1.1-.9-2-2-2H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zm-9-1c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm13-6v11c0 1.1-.9 2-2 2H4v-2h17V7h2z"
+              />
+            </svg>
+          </div>
+          <h6
+            className="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap css-v5xmk6-MuiTypography-root"
+          >
+            Spendings
+          </h6>
+        </div>
+      </div>
+    </div>
+  </header>,
+  <p>
+    children
+  </p>,
+]
+`;
